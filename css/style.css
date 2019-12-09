@@ -1,0 +1,89 @@
+/*base classes*/
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.d-inline-block{
+	display: inline-block;
+}
+/*header*/
+.logo img{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;  
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px; 
+}
+.nav-li{
+	display: inline-block; 
+	margin-right: 30px;
+}
+.nav-a{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+ 
+/*End header*/
+/*start banner*/
+/*and banner*/
+/*start article-section*/
+.title-test{
+	font-family: "ALK Life", sans-serif;
+}
+.box{
+	background-color: #f2f2f2;
+	width: 570px;\
+	padding: 15px 10px 40px 10px;	
+}
+.box-margin{
+    margin-right: 25px;
+}
+.wraper{
+	margin-top: 32px;
+} 
+.article-title{
+	text-transform: uppercase;
+}
+.article-title a{
+	text-transform: lowercase;
+}
+.p-article{
+    width: 345px;
+    vertical-align:top;
+    font-size: 20px;
+    line-height: 28px;
+}
+.artical-image{
+	vertical-align: middle;
+	height: 130px;
+	margin right: 60px;
+}
+/*end articale-saction*/
+.social{
+	height: 30px;
+	display: inline-block;
+}
+
+.divider{
+	display: inline-block;
+	background color: #3D58A6;
+	height: 30px;
+	width: 2px;
+	margin: 0 20px;
+}
+}
+/*contact-page*/
+.grey-bg{
+	background-color: #E6E6E6;
+	padding: 45px;
+}
+.right-block iframe{
+	width:869px;
+	height:460px;
+	vertical-align: top; 
+}
+.left-block{
+	vertical-align: top;
+}
